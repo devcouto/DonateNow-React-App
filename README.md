@@ -1,2 +1,9 @@
-# DonateNow-React-App
-App built from React JavaScript library. Enjoy it donating for one of these institutions :) http://www.devcouto.com/donatenow
+# DonateNow!
+React Sample for Beginners.
+To run the project:
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
+
+Feel free to contact me if you have any questions: couto@devcouto.com
