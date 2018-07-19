@@ -1,5 +1,5 @@
 # DonateNow!
-React Sample for Beginners.
+Simple React example for Beginners
 To run the project:
 
 1. Clone this repo
